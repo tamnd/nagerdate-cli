@@ -1,0 +1,10 @@
+title       = "nagerdate"
+baseURL     = "https://nagerdate-cli.tamnd.com/"
+description = "Public holiday CLI for 123 countries (date.nager.at)."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/nagerdate-cli"
